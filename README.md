@@ -1,7 +1,7 @@
 # VC++Errors 极速版
  VC学习版又双叒叕报错了，看看错误码：
 
-``` sh
+``` 
 >------- 已启动生成. 项目 { Your Project }; 配置 Debug Any -------
 > *.c
 > fatal error { 错误码 } : { 描述 }
