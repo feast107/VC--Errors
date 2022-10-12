@@ -6,7 +6,7 @@
 ## 参考
 
  + # **[MSDN](https://learn.microsoft.com/zh-cn/cpp/error-messages/compiler-errors-1/compiler-error-c2065?view=msvc-170) 非常建议查看MSDN!!!**  
- > 首席主治医师 `微软` 将对您的病情进行持续的跟踪
+ > ~~首席主治医师 `微软` 将对您的病情进行持续的跟踪~~
 
 ---
 # 情况
