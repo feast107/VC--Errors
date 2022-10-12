@@ -15,3 +15,7 @@
 无法打开预编译头文件 "*.pch" No such file or directory
 ```
 
+# [C2065](./C2065/README.md)
+```
+“identifier” ： 未声明的标识符
+```
