@@ -3,8 +3,8 @@
 ``` c++
 #include <iostream>
 int main(){
-    int i = 0
-    for(auto i, i < max, num++);
+    int i = 0;max = 10,
+    for(auto i, i < max, i++);
     {
         char c = "c";
         scanf("%c",c);
