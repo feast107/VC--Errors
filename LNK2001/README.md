@@ -7,7 +7,6 @@
 + [MSDN](https://learn.microsoft.com/zh-cn/cpp/error-messages/tool-errors/linker-tools-error-lnk2001?view=msvc-140)
 
 ---
-# 情况
 
 ## 原因
 + 你正在引用某个函数，或者某个变量，而他们并没有被正确的导入
