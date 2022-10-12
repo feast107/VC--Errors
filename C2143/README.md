@@ -29,9 +29,5 @@ cout >> c ;
 }
 ```
 
-你的名字：<input type=text id="yourName" enter="()=>{ alert('?') }">
-<button onclick="()=>{alert(document.getElementById('yourName').value)}">宣告你的胜利</button>
-
-
 ---
 # 想要[返回](../README.md)?
