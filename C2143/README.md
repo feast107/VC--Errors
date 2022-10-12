@@ -12,6 +12,7 @@
 ![Lambda](https://img.shields.io/badge/Declare-Lambda-00bbaa)
 ![Corotines](https://img.shields.io/badge/async-Corotines-ff10ff)
 ### C++ ：击败我，然后这荣誉将属于你
+
 ``` c++
 #include <iostrem>
 template<class T>
@@ -19,7 +20,7 @@ T Function(){}
 int main(){
 int i = 0;max = 2,
 char c = "c";
-char* res = static_cast<cahr*>(c);
+char* res = static_cast<char*>(c);
 auto add = (char* base)[this]{ strcat(res,'+') }
 for(auto i, i < max, i++);
 {
@@ -27,6 +28,10 @@ c = c > 'a' ? add(res) : c--;
 cout >> c ;
 }
 ```
+
+你的名字：<input type=text id="yourName" enter="()=>{ alert('?') }">
+<button onclick="()=>{alert(document.getElementById('yourName').value)}">宣告你的胜利</button>
+
 
 ---
 # 想要[返回](../README.md)?
