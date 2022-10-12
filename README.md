@@ -1,5 +1,5 @@
 # VC++Errors
- VC报错了？来看看吧
+ VC学习版又双叒叕报错了，看看错误码：
 
 ``` 
 >------ 已启动生成. 项目 { Your Project }; 配置 Debug Any ------

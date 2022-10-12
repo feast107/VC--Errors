@@ -1,14 +1,16 @@
 # C1083
 
+## 参考
+
++ [MSDN](https://learn.microsoft.com/zh-cn/cpp/error-messages/compiler-errors-1/fatal-error-c1083?view=msvc-140)
+
+---
+# 情况
+
 
 ```
 无法打开预编译头文件 "*.pch" No such file or directory
 ```
-
----
-## 参考
-
-+ [MSDN](https://learn.microsoft.com/zh-cn/cpp/error-messages/compiler-errors-1/fatal-error-c1083?view=msvc-140)
 
 ---
 ## 原因
