@@ -22,10 +22,10 @@ int i = 0;max = 2,
 char c = "c";
 char* res = static_cast<char*>(c);
 auto add = (char* base)[this]{ strcat(res,'+') }
-for(auto i, i < max, i++);
+for(auto i， i < max， i++);
 {
-c = c > 'a' ? add(res) : c--;
-cout >> c ;
+c = c > 'a' ? add(res) : c--；
+cout >> c ；
 }
 ```
 
